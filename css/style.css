@@ -1,0 +1,17 @@
+#myInput{
+  background-color:lightgrey;
+  color:black;
+  width:500px;
+  height:35px;
+}
+#click{
+  width:100px;
+  height:30px;
+  background-color:grey;
+  font-weight:bolder;
+  color:white;
+}
+#d1{
+  margin:100px;
+  width:300px;
+}
